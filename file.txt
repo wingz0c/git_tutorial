@@ -1,1 +1,3 @@
-I am learning git
+I am learning git.
+
+Yo whaddup Nerd, just a git collaborator doin work... yo~
